@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/fontes/fontawesome-free-5.15.4-web/css/all.css">
+    <title>Meu formulário</title>
+</head>
+<body>
+    <div id="container">
+        <div class="welcome-box">
+            <div class="title">
+                <h1>Bem vindos</h1>
+            </div>
+            <div class="content">
+                <span>
+                    Crie agora mesmo seu cadastro em nossa plataforma<br>
+                    e faça parte de uma comunidade incrível!
+                </span>
+            </div>
+            <div class="footer-box">
+                <span>
+                    &copy; Desenvolvido por JT4K-desenvolvimentos
+                </span>
+            </div>
+        </div>
+        <div class="form-box">
+            <div class="head-title">
+                <h2>Faça seu cadastro</h2>
+            </div>
+            <form action="" id="my-form">
+                <div class="form-group">
+                    <label for="name">Nome:</label>
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="name">
+                </div>
+                <div class="form-group">
+                    <label for="address">Endereço:</label>
+                    <i class="fas fa-address-card"></i>
+                    <input type="text" name="address">
+                </div>
+                <div class="form-group">
+                    <label for="city">Cidade:</label>
+                    <i class="far fa-building"></i>
+                    <input type="text" name="city">
+                </div>
+                <div class="form-group">
+                    <label for="zip-code">CEP:</label>
+                    <i class="fas fa-mail-bulk"></i>
+                    <input type="text" name="zipcode">
+                </div>
+                <div class="form-group">
+                    <label for="number">Numero:</label>
+                    <i class="fas fa-map-marker-alt"></i>
+                    <input type="number" name="number">
+                </div>
+                <div class="form-group">
+                    <label for="state">Estado:</label>
+                    <i class="fas fa-globe"></i>
+                    <input type="text" name="state">
+                </div>
+                <div class="radio-group">
+                    <fieldset>
+                        <legend>Generos</legend>
+                        <div>
+                            <label for="masculine">Masculino:</label>
+                            <input type="radio" name="gender" id="masc">
+                        </div>
+                        <div>
+                            <label for="feminine">Feminino:</label>
+                            <input type="radio" name="gender" id="femen">
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <i class="fas fa-envelope"></i>
+                    <input type="email" name="email">
+                </div>
+                <div class="form-group">
+                    <label for="telephone">Telefone:</label>
+                    <i class="fas fa-phone"></i>
+                    <input type="number" name="phone">
+                </div class ="button-group">
+                <div class="form-group">
+                    <label for="photo">Adicione uma foto:</label>
+                    <input type="file" name="photo" class="file">
+                </div class ="button-group">
+                <div>
+                    <input type="submit" value="Enviar" class="submit">
+                    <button type="button" class="cancel">Cancelar</button>
+                </div>
+            </form>
+        </div>
+        <div class="result-box" style="display: none;">
+            <div class="status">
+                <span>Cadastro feito com sucesso!</span>
+                <div class="result">
+                    <img src="/src/img/sucesso-profissional-1200x900.jpg" alt="logo do result">
+                </div>
+            </div>
+            <div class="btn">
+                <button type="button">ok!</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/script.js"></script>
+</body>
+</html>
