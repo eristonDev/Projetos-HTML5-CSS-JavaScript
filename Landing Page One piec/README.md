@@ -1,10 +1,10 @@
-<h1 align="center" style="font-size: 12px;font-weight: lighter;">
+<h1 align="center">
     <img src="https://ik.imagekit.io/jt4kdesenvolvimentos/perfil.svg?updatedAt=1742840251579" alt="photo-header" width="150">
-    <p style="font-size: 12px;font-weight: lighter;">© - Jt4k-Desenvolvimentos<br>
-    eriston.dev - Desenvolvedor back-end e front-end</p>
 </h1>
+ <p align="center"style="font-size: 12px;font-weight: lighter;">© - Jt4k-Desenvolvimentos<br>
+    eriston.dev - Desenvolvedor back-end e front-end</p>
 
-# Descrição do projeto 📊📉
+### Descrição do projeto 📊📉
 
 Este projeto foi concebido com o objetivo de demonstrar a capacidade de criar uma landing page personalizada, utilizando as principais ferramentas de desenvolvimento web. O foco é criar uma página responsiva e de fácil utilização, com uma estrutura de layout intuitiva e fácil de navegar, proporcionando uma experiência de usuário agradável e eficiente.
 
@@ -13,7 +13,7 @@ Este projeto foi concebido com o objetivo de demonstrar a capacidade de criar um
 
 <img src="https://ik.imagekit.io/jt4kdesenvolvimentos/projeto.jpg?updatedAt=1742840384224" alt="imagem do projeto">
 
-## Tecnologias utilizadas 💻⌨📳
+### Tecnologias utilizadas 💻⌨📳
 
 - HTML5 
 - CSS 3
