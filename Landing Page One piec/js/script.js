@@ -1,5 +1,5 @@
 let menus = document.querySelectorAll('.box-menu');
-let background = document.querySelector('.bg-boxFirts');
+let background = document.querySelector('#firts-page');
 const content = document.querySelector('.history');
 
 background.style.background = 'url(assets/img/Luffy.jpg)';
