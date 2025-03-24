@@ -4,7 +4,7 @@
  <p align="center"style="font-size: 12px;font-weight: lighter;">© - Jt4k-Desenvolvimentos<br>
     eriston.dev - Desenvolvedor back-end e front-end</p>
 
-### Descrição do projeto 📊📉
+### Descrição do projeto para Web 📊📉
 
 Este projeto foi concebido com o objetivo de demonstrar a capacidade de criar uma landing page personalizada, utilizando as principais ferramentas de desenvolvimento web. O foco é criar uma página responsiva e de fácil utilização, com uma estrutura de layout intuitiva e fácil de navegar, proporcionando uma experiência de usuário agradável e eficiente.
 
@@ -18,6 +18,7 @@ Este projeto foi concebido com o objetivo de demonstrar a capacidade de criar um
 - HTML5 
 - CSS 3
 - JavaScript
+- JSON
 
 ### Como acessar o projeto? 📈
 - 1 . Acessar o repositório 
