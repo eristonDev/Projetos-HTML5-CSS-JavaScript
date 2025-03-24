@@ -8,7 +8,7 @@
 
 Este projeto consiste em um formulário que permite ao usuário inserir seus dados e enviá-los para o servidor após validação. O formulário é equipado com recursos de validação que impedem a submissão caso todos os campos obrigatórios não sejam preenchidos. Além disso, o formulário também inclui um módulo de tratamento de dados, responsável por processar e enviar as informações coletadas para o servidor de forma segura e eficiente.
 
-#### Layout do Projeto - Langin page One piece
+#### Layout do Projeto - My-form
 
 
 <img src="https://ik.imagekit.io/jt4kdesenvolvimentos/projeto%20form.jpg?updatedAt=1742855235140" alt="imagem do projeto">
