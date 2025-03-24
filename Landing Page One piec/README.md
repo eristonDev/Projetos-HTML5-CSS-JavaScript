@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" width="100">
     <img src="https://ik.imagekit.io/jt4kdesenvolvimentos/perfil.svg?updatedAt=1742840251579" alt="photo-header" width="150">
     <p style="font-size: 12px;font-weight: lighter;">© - Jt4k-Desenvolvimentos<br>
     eriston.dev - Desenvolvedor back-end e front-end</p>
